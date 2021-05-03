@@ -1,9 +1,9 @@
 {
   "type": "package",
   "name": "fysiweb/elm-review-no-import-as",
-  "summary": "Provides elm-review rules to REPLACEME",
+  "summary": "Provides elm-review rules to forbid the use of import aliases",
   "license": "BSD-3-Clause",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exposed-modules": [
     "NoImportAs"
   ],
