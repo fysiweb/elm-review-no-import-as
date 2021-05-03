@@ -1,7 +1,6 @@
 {
     "scripts": {
-        "test": "elm make --docs=docs.json && elm-format src/ tests/ --validate && elm-test && elm-review",
-        "review": "elm-review",
+        "test": "elm make --docs=docs.json && elm-format src/ tests/ --validate && elm-test",
         "preview-docs": "elm-doc-preview"
     },
     "dependencies": {
@@ -9,6 +8,6 @@
         "elm-doc-preview": "^5.0.3",
         "elm-format": "0.8.3",
         "elm-review": "^2.2.6",
-        "elm-test": "0.19.1-revision2"
+        "elm-test": "0.19.1-revision6"
     }
 }

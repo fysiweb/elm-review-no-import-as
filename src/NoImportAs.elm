@@ -30,8 +30,8 @@ import Review.Rule exposing (Error, Rule)
 
 ## When (not) to enable this rule
 
-This rule is useful when REPLACEME.
-THis rule is not useful when REPLACEME.
+This rule is useful when you want to forbid the use of import aliases.
+THis rule is not useful when you don't.
 
 -}
 rule : Rule
