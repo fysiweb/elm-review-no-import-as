@@ -9,5 +9,6 @@
         "elm-format": "0.8.3",
         "elm-review": "^2.2.6",
         "elm-test": "0.19.1-revision6"
-    }
+    },
+    "license": "BSD-3-Clause"
 }
